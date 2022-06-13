@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Keripik Store</string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_desc">Gunakan e-wallet untuk\ntransaksi</string>
+    <string name="lanjutkan">LANJUTKAN</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="masuk">MASUK AKUN</string>
+    <string name="daftar_baru">DAFTAR AKUN BARU</string>
+    <string name="signup_welcome">Welcome, \nSilviNda</string>
+    <string name="simpan_dan_lanjutkan">SIMPAN DAN LANJUTKAN</string>
+    <string name="upload_nanti">UPLOAD NANTI</string>
+    <string name="hint_username">Masukan username anda</string>
+    <string name="nama">Nama</string>
+    <string name="email_address">Email Address</string>
+    <string name="hint_pass">Masukan password</string>
+    <string name="hint_name">Masukan nama</string>
+    <string name="hint_email">Masukan E-mail</string>
+    <string name="account_name">Silvinda</string>
+    <string name="account_saldo">IDR 500.000</string>
+    <string name="produk_lainnya">Produk Lainnya</string>
+    <string name="terlaris">Terlaris!</string>
+    <string name="judul_product">Zanana Chips</string>
+    <string name="kategori_produk">Keripik Pisang</string>
+    <string name="deskripsi_produk">Zanana Chips adalah pionir keripik pisang kekinian asal kota\nBandung ang eksis sejak tahun 2013 hingga menjadi keripik\npisang.</string>
+    <string name="beli">Beli</string>
+    <string name="happy_eating">Happy Eating!</string>
+    <string name="success_desc">Barang telah berhasil dibeli \ndan selamat menikmati.</string>
+    <string name="home">Home</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="saldo">Saldo Tersedia</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="history">History</string>
+
+
+</resources>

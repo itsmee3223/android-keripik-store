@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409107745295",
+    "project_id": "keripik-store-cbf2a",
+    "storage_bucket": "keripik-store-cbf2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409107745295:android:49d4813cfd47a855d4717a",
+        "android_client_info": {
+          "package_name": "com.silvinda.keripikstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409107745295-fehr07rue4108a4rt60brkvtf15f29fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtkbX-ypn5VRc0qUP9JtUOikTxcKHSOu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409107745295-fehr07rue4108a4rt60brkvtf15f29fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
