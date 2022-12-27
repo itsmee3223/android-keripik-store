@@ -18,7 +18,6 @@
 
 
 ## Another Projects
-Android Movie Ticket: https://github.com/itsmee3223/fullstack-android-movie-ticket
-
-
-Android Keripik Store - SQLite: https://github.com/itsmee3223/android-keripik-store-sqlite
+1. Android Movie Ticket: https://github.com/itsmee3223/fullstack-android-movie-ticket
+2. Android Jetpack Compose Keripik Storage: https://github.com/itsmee3223/android-jetpack-compose-keripik-storage
+3. Android Keripik Store - SQLite: https://github.com/itsmee3223/android-keripik-store-sqlite
